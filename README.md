@@ -42,7 +42,7 @@
 ---
 
 ## 🌱 Currently Learning  
-- Advanced **React + TypeScript** patterns  
+- Advanced **React + TypeScript** patterns, working on a Trello-lite app  
 - **DevOps practices** (CI/CD, Terraform, AWS)  
 - Expanding into **data visualisation** (Power BI, dashboards)  
 
