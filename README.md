@@ -49,7 +49,7 @@
 ---
 
 ## 💼 Experience Highlights  
-- 🎓 **Software Engineer (University Projects)** – Delivered real-world client projects including a BT router configuration system with CI/CD pipelines.  
+- 🎓 **Software Engineer (University Projects)** – Delivered real-world client projects for BT Group and Legal & General.  
 - 🚀 **Co-Director @ OS Studios** – Managing client campaigns, content production, and digital growth for brands like GOODBGR & Wok to Walk.  
 - 🛠 **Customer-facing Sales Roles** – Experience at Screwfix, EE, and Next, developing strong communication, leadership, and problem-solving skills.  
 
