@@ -1,7 +1,6 @@
 # Hi, I'm Sameer 👋  
 
-🎓 **BSc Applied Software Engineering Graduate** from Cardiff University’s National Software Academy (2025)  
-💼 Co-Director of **OS Studios** – a creative social media & content agency helping food brands grow through digital storytelling  
+🎓 **BSc Applied Software Engineering Graduate** from Cardiff University’s National Software Academy (2025)    
 💻 Passionate about **full-stack development, cloud technologies, and building real-world solutions** that combine creativity with technical skill  
 
 ---
